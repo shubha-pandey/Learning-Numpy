@@ -13,7 +13,7 @@ This repo contains my study notes, key concepts, useful resources, and cheat she
 ---
 
 ## **📖 Key Topics Covered**
-✔️ **[NumPy]** – NumPy, NumPy Array, Axis, Array Slicing 
+✔️ **NumPy** – NumPy, NumPy Array, Axis, Array Slicing 
 
 ---
 
